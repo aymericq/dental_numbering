@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# Except
+!.gitignore
+!basin_hopping_reel.ipynb

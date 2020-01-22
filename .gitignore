@@ -4,3 +4,4 @@
 # Except
 !.gitignore
 !basin_hopping_reel.ipynb
+!centers_of_mass.json
